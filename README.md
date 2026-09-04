@@ -1,5 +1,7 @@
 # Seaborn Statistical Visualization Project
 
+**Repository:** https://github.com/MozonAlsaif/seaborn-project
+
 ## Overview
 This project explores statistical data visualization using **Seaborn** on the built-in `tips` dataset. It covers distribution plots with grouping, faceted display of categorical distributions, and cumulative distribution functions, each with custom styling and color palettes.
 
